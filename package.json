@@ -1,7 +1,7 @@
 {
-  "name": "webpack-boilerplate",
-  "version": "3.0.2",
-  "description": "Sensible webpack 5 boilerplate using Babel and PostCSS.",
+  "name": "propo-frontend",
+  "version": "1.0.0",
+  "description": "Frontend part for website ProPO",
   "main": "index.js",
   "author": "Stepan Neverov",
   "license": "MIT",
