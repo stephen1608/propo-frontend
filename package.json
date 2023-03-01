@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:taniarascia/webpack-boilerplate"
+    "url": "git@github.com:stephen1608/propo-frontend"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
